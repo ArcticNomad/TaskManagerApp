@@ -1,1 +1,1 @@
-this is project is about developing a new web application for managing project tasks and deadlines. As part of the development process, you are tasked with creating a new repository on GitHub
+asdthis is project is about developing a new web application for managing project tasks and deadlines. As part of the development process, you are tasked with creating a new repository on GitHub
